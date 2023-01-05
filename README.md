@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working a Software Engineering Intern - Frontend with OSFD.
+I'm currently working as a Software Engineering Intern - Frontend with OSFD.
+Currently studying MERN stack with TypeScript.
 
 
 # 💻 Tech Stack:
